@@ -15,7 +15,6 @@ Services that index public photos and allow anyone to search for a face.
 | Service | Website | Notes |
 |---|---|---|
 | PimEyes | https://pimeyes.com | Public face search engine; opt-out form available. |
-| Precheck.ai | https://precheck.ai | AI-powered face search platform; for developers and their own large face database; data deletion on request. |
 | FaceCheck.id | https://facecheck.id | Face search indexing public photos; free removal requests. |
 | EyeMatch.ai | https://eyematch.ai | AI facial recognition search platform; opt-out form. |
 | ClarityCheck | https://claritycheck.com | Facial recognition search platform with opt-out verification. |
