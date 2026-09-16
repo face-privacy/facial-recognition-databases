@@ -15,15 +15,34 @@ Services that index public photos and allow anyone to search for a face.
 | Service | Website | Notes |
 |---|---|---|
 | PimEyes | https://pimeyes.com | Public face search engine; opt-out form available. |
+| Precheck.ai | https://precheck.ai | AI-powered face search platform; for developers and their own large face database; data deletion on request. |
 | FaceCheck.id | https://facecheck.id | Face search indexing public photos; free removal requests. |
 | EyeMatch.ai | https://eyematch.ai | AI facial recognition search platform; opt-out form. |
 | ClarityCheck | https://claritycheck.com | Facial recognition search platform with opt-out verification. |
 | Lenso.ai | https://lenso.ai | AI reverse image search with face matching; permanent opt-out. |
 | ProFaceFinder | https://profacefinder.com | Face recognition and reverse image search; opt-out form. |
-| Precheck.ai | https://precheck.ai | AI-powered face search platform; data deletion on request. |
 | FindClone | https://findclone.ru | Russian face search engine indexing VKontakte photos. |
 | Search4Faces | https://search4faces.com | Russian face search indexing VK, Odnoklassniki, TikTok, ClubHouse. |
 | Social Catfish | https://socialcatfish.com | Reverse image search and people search platform; opt-out available. |
+| AI Face Search | https://aifacesearch.io | Facial recognition search engine scanning public web sources for face matches; opt-out link available, states no data is stored. |
+| Face ID Search | https://www.faceidsearch.com | Reverse facial recognition service searching 200+ platforms; opt-out page available, states a zero-retention policy. |
+| Reverse Face | https://reverseface.com | Facial recognition search engine indexing over 1 billion images; "Remove My Face" opt-out link available. |
+| FaceCheckNow | https://facechecknow.com | Pay-per-search reverse face search service marketed for dating verification; dedicated opt-out page available. |
+| Face Search AI | https://www.facesearchai.com | Reverse facial recognition search engine indexing public images; free opt-out form, states uploaded photos are deleted after each search. |
+| NexID | https://nexid.id | Reverse face search service for identity/dating verification; "Remove my data" opt-out page available. |
+| Face2Social | https://face2social.com | Facial recognition tool matching photos to social media profiles; "delete my information" request page for eligible users. |
+| FaceOnLive | https://faceonlive.com/face-search-online/ | Free reverse face search tool scanning social media and forums; no dedicated opt-out page found, points to a separate third-party removal service. |
+| CamGirlFinder | https://camgirlfinder.net | Facial recognition search engine matching uploaded images against faces indexed from adult webcam platforms; no opt-out or removal process found. |
+| Geometria FaceSearch | https://geometria.ru/facesearch/ | Reverse image/photo search tool (Russian-language) that may include facial matching; no explicit opt-out process described. |
+| Himera Search | https://himerabot.com | Telegram-bot-based OSINT/people-search tool with a facial recognition search feature; data deletion available by request through the bot's support. |
+| FaceSeek | https://www.faceseek.online | Reverse facial recognition search that also scans data-broker sites for personal exposure; paid removal/monitoring service, states uploaded photos are deleted after search. |
+| PeopleFinder | https://peoplefinder.app/face-search | Facial recognition "search person by photo" service; "Data Removal" opt-out link available. |
+| Sherlock AI Face Search | https://sherlockaiface.online | Reverse face search tool that processes images client-side and sends only a numeric faceprint to its servers; dedicated removal page available. |
+| Face Finder | https://www.facefinder.id/en | Reverse facial recognition search engine indexing 50M+ faces; states uploaded photos are deleted after search, no dedicated opt-out page found. |
+| Findsio | https://findsio.io/reverse-image-lookup/ | Facial recognition search service locating a person's photo across social media and dating platforms; no opt-out mechanism found beyond a general privacy policy. |
+| VK Watch | https://vk.watch | Face-photo search tool for the VKontakte (VK) social network, per third-party sources; site could not be directly verified and no opt-out information confirmed. |
+| Searqle | https://searqle.io/image-lookup/ | Facial recognition and reverse image search service scanning public profiles for face matches; opt-out page available, includes an FCRA notice. |
+| FaceLookup | https://www.facelookup.pro/en | Reverse facial recognition search scanning 56+ platforms and the open web; states images are not retained after search, no dedicated opt-out page found. |
 
 ## Law Enforcement / Investigative Databases
 
