@@ -42,7 +42,7 @@ Services that index public photos and allow anyone to search for a face.
 | VK Watch | https://vk.watch | Face-photo search tool for the VKontakte (VK) social network, per third-party sources; site could not be directly verified and no opt-out information confirmed. |
 | Searqle | https://searqle.io/image-lookup/ | Facial recognition and reverse image search service scanning public profiles for face matches; opt-out page available, includes an FCRA notice. |
 | FaceLookup | https://www.facelookup.pro/en | Reverse facial recognition search scanning 56+ platforms and the open web; states images are not retained after search, no dedicated opt-out page found. |
-
+| PrivacyLeak | https://privacyleak.ai | Face and reverse image search for adult site; takedown / removal requests available. |
 ## Law Enforcement / Investigative Databases
 
 | Service | Website | Notes |
