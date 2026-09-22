@@ -17,7 +17,6 @@ Services that index public photos and allow anyone to search for a face.
 | PimEyes | https://pimeyes.com | Public face search engine; opt-out form available. |
 | FaceCheck.id | https://facecheck.id | Face search indexing public photos; free removal requests. |
 | EyeMatch.ai | https://eyematch.ai | AI facial recognition search platform; opt-out form. |
-| ClarityCheck | https://claritycheck.com | Facial recognition search platform with opt-out verification. |
 | Lenso.ai | https://lenso.ai | AI reverse image search with face matching; permanent opt-out. |
 | ProFaceFinder | https://profacefinder.com | Face recognition and reverse image search; opt-out form. |
 | FindClone | https://findclone.ru | Russian face search engine indexing VKontakte photos. |
